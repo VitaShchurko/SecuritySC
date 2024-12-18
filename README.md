@@ -64,6 +64,9 @@ npx hardhat node
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
+and you will see:
+<img width="1180" alt="Знімок екрана 2024-12-18 о 13 44 42" src="https://github.com/user-attachments/assets/faf3235e-9f1c-48f7-bf1c-98ffe93d3dbd" />
+
 
 ## Conclusion
 
